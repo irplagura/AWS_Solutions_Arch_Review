@@ -20,13 +20,13 @@ Console.
 
 
 ### Key Terminology
-**Users** 
+**1. Users** 
 End Users such as people,  employees of an organization etc. 
-**Groups** 
+**2. Groups** 
 A collection Of users. Each user in the group will inherit the permissions Of the group. 
-**Policies**
+**3. Policies**
 Polices are made up Of documents, called Policy documents. 
 These documents are in a format called **JSON** and they give permissions as to what a User/Group/Ro1e is able to 
 do. 
-**Roles**
+**4. Roles**
 You create roles and then assign them to AWS Resources. 
