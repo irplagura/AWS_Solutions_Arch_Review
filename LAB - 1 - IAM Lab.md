@@ -1,3 +1,6 @@
+https://acloud.guru/course/aws-certified-solutions-architect-associate/learn/iam-s3/create-bucket/watch
+
+
 ** Suggest to use US East (N. Virginia) Region
 
 * Login to AWS console
