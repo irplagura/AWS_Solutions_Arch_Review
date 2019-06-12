@@ -11,7 +11,7 @@ https://acloud.guru/course/aws-certified-solutions-architect-associate/learn/iam
 ![Review Page](https://github.com/irplagura/AWS_Solutions_Arch_Review/blob/master/S3%20-%20lifecycle%20rules%20-%20ReviewJPG.JPG)
 
 
-# Examp Tips
+# Exam Tips
 ## Lifecycle Rules can:
 * Automates moving your objects etween the different storage tiers. 
 * Can be used in conjunction with ver ioning. 
