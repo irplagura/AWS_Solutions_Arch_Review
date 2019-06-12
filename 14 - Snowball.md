@@ -23,3 +23,13 @@ Transferring data with Snowball is simple, fast, secure, and can be as little as
 * You can transfer up to 100PB per Snowmobile, a 45-foot long ruggedized shipping container, pulled by a semi-trailer truck. 
 * Snowmobile makes it easy to move massive volumes of data to the cloud, including video libraries, image repositories, or even a complete data center migration. 
 * Transferring data with Snowmobile is secure, fast and cost effective. 
+
+
+### When to use snowball
+![When](https://github.com/irplagura/AWS_Solutions_Arch_Review/blob/master/AWS%20-%20when%20to%20use%20snowball.JPG)
+
+# Exam Tips
+* Understand what snowball is
+* Snowball can
+* Import to S3
+* Export to S3
